@@ -18,3 +18,14 @@ https://www.coursera.org/learn/convolutional-neural-networks <br>
 ## week 3:
 https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4 <br>
 (vid 2 to 14)
+
+# PHASE 2:
+# Reinforcement Learning
+## week 5:
+Now we will start the phase 2 of the SOC which is the crux of the project - Reinforcement Learning. <br>
+Watch the first 5 videos of this series. <br>
+https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver
+
+## week 6:
+https://www.youtube.com/watch?v=Psrhxy88zww&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0&index=2 <br>
+Watch first 2 videos of this playlist.

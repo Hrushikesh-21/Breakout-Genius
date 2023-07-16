@@ -29,3 +29,8 @@ https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learni
 ## week 6:
 https://www.youtube.com/watch?v=Psrhxy88zww&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0&index=2 <br>
 Watch first 2 videos of this playlist.
+
+## Implementation:
+You are provided with a template code. <br><br>
+https://arxiv.org/abs/1312.5602 <br>
+Use this paper to brush up the algorithm.

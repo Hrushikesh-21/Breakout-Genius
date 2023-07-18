@@ -7,6 +7,9 @@ Week 5-6	Learning concepts of Reinforcement learning.<br>
 Week 7-8	Implementation and training of deep RL model.<br>
 </pre>
 
+# My Notes :
+https://drive.google.com/file/d/1EO_HoU46nvY4tIaB2g5afYQFluv_mREa/view?usp=sharing
+
 # Resources:
 ## week 1:
 https://youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0
